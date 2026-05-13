@@ -1,0 +1,4 @@
+<resources>
+    <color name="taller_color_texto">#FFFFFF</color> <!-- Blanco -->
+    <color name="taller_color_fondo">#2196F3</color> <!-- Azul -->
+</resources>

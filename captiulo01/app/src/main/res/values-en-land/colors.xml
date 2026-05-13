@@ -1,0 +1,4 @@
+<resources>
+    <color name="taller_color_texto">#000000</color> <!-- Negro -->
+    <color name="taller_color_fondo">#FFEB3B</color> <!-- Amarillo -->
+</resources>
